@@ -1,0 +1,937 @@
+[
+    {
+        "senatorLabel": "Rick Scott",
+        "Twitter_username": "SenRickScott",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Tom Daschle",
+        "Twitter_username": "TomDaschle",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Mark Warner",
+        "Twitter_username": "MarkWarner",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Tom Carper",
+        "Twitter_username": "SenatorCarper",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Marsha Blackburn",
+        "Twitter_username": "MarshaBlackburn",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Shelley Moore Capito",
+        "Twitter_username": "SenCapito",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Thune",
+        "Twitter_username": "johnthune",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Thune",
+        "Twitter_username": "SenJohnThune",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Rand Paul",
+        "Twitter_username": "RandPaul",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Richard Shelby",
+        "Twitter_username": "SenShelby",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Richard Shelby",
+        "Twitter_username": "SenShelby",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Mark Dayton",
+        "Twitter_username": "govmarkdayton",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Mark Dayton",
+        "Twitter_username": "govmarkdayton",
+        "member_of_political_partyLabel": "Minnesota Democratic–Farmer–Labor Party"
+    },
+    {
+        "senatorLabel": "Larry Pressler",
+        "Twitter_username": "larrypressler",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John F. Reed",
+        "Twitter_username": "SenJackReed",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Chuck Grassley",
+        "Twitter_username": "ChuckGrassley",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Ron Lee Wyden",
+        "Twitter_username": "RonWyden",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Ron Lee Wyden",
+        "Twitter_username": "WydenPress",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Jon Tester",
+        "Twitter_username": "SenatorTester",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Jim Webb",
+        "Twitter_username": "jimwebbusa",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Pat Roberts",
+        "Twitter_username": "SenPatRoberts",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Joe Manchin",
+        "Twitter_username": "Sen_JoeManchin",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Angus King",
+        "Twitter_username": "SenAngusKing",
+        "member_of_political_partyLabel": "independent politician"
+    },
+    {
+        "senatorLabel": "Michael Bennet",
+        "Twitter_username": "MichaelBennet",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Michael Bennet",
+        "Twitter_username": "SenatorBennet",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Tim Scott",
+        "Twitter_username": "SenatorTimScott",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Martin Heinrich",
+        "Twitter_username": "MartinHeinrich",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Mike Lee",
+        "Twitter_username": "SenMikeLee",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mark Udall",
+        "Twitter_username": "MarkUdall",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Dan Coats",
+        "Twitter_username": "SenDanCoats",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Sheldon Whitehouse",
+        "Twitter_username": "SenWhitehouse",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "John Cornyn",
+        "Twitter_username": "JohnCornyn",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Barrasso",
+        "Twitter_username": "SenJohnBarrasso",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Jim Risch",
+        "Twitter_username": "SenatorRisch",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mike Rounds",
+        "Twitter_username": "SenatorRounds",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Jim Mountain Inhofe",
+        "Twitter_username": "JimInhofe",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Ben Cardin",
+        "Twitter_username": "SenatorCardin",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Thad Cochran",
+        "Twitter_username": "SenThadCochran",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Thad Cochran",
+        "Twitter_username": "SenThadCochran",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Mike Crapo",
+        "Twitter_username": "MikeCrapo",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mike Crapo",
+        "Twitter_username": "crapoforsenate",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Bill Cassidy",
+        "Twitter_username": "BillCassidy",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Bill Cassidy",
+        "Twitter_username": "SenatorCassidy",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Bob Casey Jr.",
+        "Twitter_username": "SenBobCasey",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Bob Casey Jr.",
+        "Twitter_username": "bob_casey",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Robert Menendez",
+        "Twitter_username": "SenatorMenendez",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Chris Coons",
+        "Twitter_username": "ChrisCoons",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Chris Coons",
+        "Twitter_username": "SenCoonsOffice",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Robert Jones Portman",
+        "Twitter_username": "robportman",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Robert Jones Portman",
+        "Twitter_username": "senrobportman",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Jeff Flake",
+        "Twitter_username": "jeffflake",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Tom Udall",
+        "Twitter_username": "SenatorTomUdall",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Ron Johnson",
+        "Twitter_username": "SenRonJohnson",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Patrick Joseph Toomey",
+        "Twitter_username": "SenToomey",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Chris Murphy",
+        "Twitter_username": "ChrisMurphyCT",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Chris Van Hollen",
+        "Twitter_username": "ChrisVanHollen",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Chris Van Hollen",
+        "Twitter_username": "VanHollenForMD",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Cory Booker",
+        "Twitter_username": "CoryBooker",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Cory Gardner",
+        "Twitter_username": "corygardner",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Cory Gardner",
+        "Twitter_username": "SenCoryGardner",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Cory Gardner",
+        "Twitter_username": "corygardner",
+        "member_of_political_partyLabel": "Colorado Republican Party"
+    },
+    {
+        "senatorLabel": "Cory Gardner",
+        "Twitter_username": "SenCoryGardner",
+        "member_of_political_partyLabel": "Colorado Republican Party"
+    },
+    {
+        "senatorLabel": "Ed Markey",
+        "Twitter_username": "SenMarkey",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "John Boozman",
+        "Twitter_username": "JohnBoozman",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Boozman",
+        "Twitter_username": "Boozman4AR",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mike DeWine",
+        "Twitter_username": "MikeDeWine",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Jerry Moran",
+        "Twitter_username": "JerryMoran",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Jeff Merkley",
+        "Twitter_username": "SenJeffMerkley",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Gary Peters",
+        "Twitter_username": "peters4michigan",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Gary Peters",
+        "Twitter_username": "SenGaryPeters",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Roy Blunt",
+        "Twitter_username": "RoyBlunt",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Roy Blunt",
+        "Twitter_username": "RoyBluntMO",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Kyrsten Sinema",
+        "Twitter_username": "SenatorSinema",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Roger Wicker",
+        "Twitter_username": "SenatorWicker",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Lamar Alexander",
+        "Twitter_username": "SenAlexander",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mike Enzi",
+        "Twitter_username": "SenatorEnzi",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Elizabeth Warren",
+        "Twitter_username": "ewarren",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Elizabeth Warren",
+        "Twitter_username": "SenWarren",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Dick Durbin",
+        "Twitter_username": "SenatorDurbin",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Jon Kyl",
+        "Twitter_username": "SenJonKyl",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Hoeven",
+        "Twitter_username": "SenJohnHoeven",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Hoeven",
+        "Twitter_username": "SenJohnHoeven",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Charles Ellis Schumer",
+        "Twitter_username": "SenSchumer",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Orrin Hatch",
+        "Twitter_username": "OrrinHatch",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Sherrod Brown",
+        "Twitter_username": "SenSherrodBrown",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Chris Dodd",
+        "Twitter_username": "SenChrisDodd",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Marco Rubio",
+        "Twitter_username": "marcorubio",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Richard M. Burr",
+        "Twitter_username": "SenatorBurr",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Bob Corker",
+        "Twitter_username": "senbobcorker",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mark Kirk",
+        "Twitter_username": "SenatorKirk",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Ken Salazar",
+        "Twitter_username": "kensalazar",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Russ Feingold",
+        "Twitter_username": "russfeingold",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Bill Nelson",
+        "Twitter_username": "senbillnelson",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Jeff Sessions",
+        "Twitter_username": "jeffsessions",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Bernie Sanders",
+        "Twitter_username": "BernieSanders",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Bernie Sanders",
+        "Twitter_username": "BernieSanders",
+        "member_of_political_partyLabel": "independent politician"
+    },
+    {
+        "senatorLabel": "Bernie Sanders",
+        "Twitter_username": "BernieSanders",
+        "member_of_political_partyLabel": "Liberty Union Party"
+    },
+    {
+        "senatorLabel": "Tim Kaine",
+        "Twitter_username": "timkaine",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Richard Lugar",
+        "Twitter_username": "senatorlugar",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Dianne Feinstein",
+        "Twitter_username": "SenFeinstein",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Barbara Boxer",
+        "Twitter_username": "Barbara_Boxer",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Debbie Stabenow",
+        "Twitter_username": "SenStabenow",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Dean Heller",
+        "Twitter_username": "sendeanheller",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Patty Murray",
+        "Twitter_username": "PattyMurray",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Barbara Mikulski",
+        "Twitter_username": "senatorbarb",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Jeanne Shaheen",
+        "Twitter_username": "SenatorShaheen",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Harry Reid",
+        "Twitter_username": "senatorreid",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Bob Dole",
+        "Twitter_username": "SenatorDole",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Al Franken",
+        "Twitter_username": "alfranken",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Al Franken",
+        "Twitter_username": "alfranken",
+        "member_of_political_partyLabel": "Minnesota Democratic–Farmer–Labor Party"
+    },
+    {
+        "senatorLabel": "Mitt Romney",
+        "Twitter_username": "MittRomney",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Joe Biden",
+        "Twitter_username": "JoeBiden",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Hillary Clinton",
+        "Twitter_username": "HillaryClinton",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Hillary Clinton",
+        "Twitter_username": "HillaryClinton",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "John McCain",
+        "Twitter_username": "SenJohnMccain",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mazie Hirono",
+        "Twitter_username": "maziehirono",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Al Gore",
+        "Twitter_username": "algore",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Jim DeMint",
+        "Twitter_username": "JimDeMint",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Lindsey Graham",
+        "Twitter_username": "LindseyGrahamSC",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Kirsten Gillibrand",
+        "Twitter_username": "SenGillibrand",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Amy Klobuchar",
+        "Twitter_username": "amyklobuchar",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Amy Klobuchar",
+        "Twitter_username": "amyklobuchar",
+        "member_of_political_partyLabel": "Minnesota Democratic–Farmer–Labor Party"
+    },
+    {
+        "senatorLabel": "Maria Cantwell",
+        "Twitter_username": "SenatorCantwell",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Claire McCaskill",
+        "Twitter_username": "clairecmc",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Susan Collins",
+        "Twitter_username": "senatorcollins",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Kerry",
+        "Twitter_username": "JohnKerry",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Kelly Ayotte",
+        "Twitter_username": "KellyAyotte",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Lisa Murkowski",
+        "Twitter_username": "lisamurkowski",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Maggie Hassan",
+        "Twitter_username": "maggie_hassan",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Maggie Hassan",
+        "Twitter_username": "SenatorHassan",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Todd Young",
+        "Twitter_username": "SenToddYoung",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Todd Young",
+        "Twitter_username": "ToddYoungIN",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Tammy Baldwin",
+        "Twitter_username": "tammybaldwin",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Tammy Baldwin",
+        "Twitter_username": "SenatorBaldwin",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Lincoln Chafee",
+        "Twitter_username": "lincolnchafee",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "James Lankford",
+        "Twitter_username": "SenatorLankford",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mary Kathryn Heitkamp",
+        "Twitter_username": "senatorheitkamp",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Mary Kathryn Heitkamp",
+        "Twitter_username": "senatorheitkamp",
+        "member_of_political_partyLabel": "North Dakota Democratic-Nonpartisan League Party"
+    },
+    {
+        "senatorLabel": "Patrick Leahy",
+        "Twitter_username": "SenatorLeahy",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Johnny Isakson",
+        "Twitter_username": "SenatorIsakson",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Scott Brown",
+        "Twitter_username": "SenScottBrown",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Rick Santorum",
+        "Twitter_username": "ricksantorum",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Joe Donnelly",
+        "Twitter_username": "SenDonnelly",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Brian Schatz",
+        "Twitter_username": "brianschatz",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Brian Schatz",
+        "Twitter_username": "SenBrianSchatz",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Richard Blumenthal",
+        "Twitter_username": "SenBlumenthal",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Ted Cruz",
+        "Twitter_username": "SenTedCruz",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Ted Cruz",
+        "Twitter_username": "tedcruz",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Neely Kennedy",
+        "Twitter_username": "JohnKennedyLA",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Neely Kennedy",
+        "Twitter_username": "SenJohnKennedy",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "John Neely Kennedy",
+        "Twitter_username": "JohnKennedyLA",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "John Neely Kennedy",
+        "Twitter_username": "SenJohnKennedy",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Luther Strange",
+        "Twitter_username": "SenatorStrange",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Martha McSally",
+        "Twitter_username": "marthamcsally",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Martha McSally",
+        "Twitter_username": "SENMcSallyAZ",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Thomas Rolland Tillis",
+        "Twitter_username": "SenThomTillis",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Kamala Harris",
+        "Twitter_username": "KamalaHarris",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Joni Ernst",
+        "Twitter_username": "joniernst",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Joni Ernst",
+        "Twitter_username": "SenJoniErnst",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Joni Ernst",
+        "Twitter_username": "joniernst",
+        "member_of_political_partyLabel": "Republican Party of Iowa"
+    },
+    {
+        "senatorLabel": "Joni Ernst",
+        "Twitter_username": "SenJoniErnst",
+        "member_of_political_partyLabel": "Republican Party of Iowa"
+    },
+    {
+        "senatorLabel": "Ben Sasse",
+        "Twitter_username": "SenSasse",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "David Perdue",
+        "Twitter_username": "sendavidperdue",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Tina Smith",
+        "Twitter_username": "SenTinaSmith",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Tina Smith",
+        "Twitter_username": "TinaSmithMN",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Josh Hawley",
+        "Twitter_username": "HawleyMO",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Jacky Rosen",
+        "Twitter_username": "RosenforNevada",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Jacky Rosen",
+        "Twitter_username": "SenJackyRosen",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Doug Jones",
+        "Twitter_username": "SenDougJones",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Mike Braun",
+        "Twitter_username": "braun4indiana",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Mike Braun",
+        "Twitter_username": "SenatorBraun",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Kelly Loeffler",
+        "Twitter_username": "kloeffler",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Deb Fischer",
+        "Twitter_username": "SenatorFischer",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Tammy Duckworth",
+        "Twitter_username": "RepDuckworth",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Tammy Duckworth",
+        "Twitter_username": "senduckworth",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Tom Cotton",
+        "Twitter_username": "sentomcotton",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Tom Cotton",
+        "Twitter_username": "TomCottonAR",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Steve Daines",
+        "Twitter_username": "SteveDaines",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Kevin Cramer",
+        "Twitter_username": "kevincramer",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Kevin Cramer",
+        "Twitter_username": "kevincramer",
+        "member_of_political_partyLabel": "North Dakota Republican Party"
+    },
+    {
+        "senatorLabel": "Catherine Cortez Masto",
+        "Twitter_username": "CatherineForNV",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Catherine Cortez Masto",
+        "Twitter_username": "SenCortezMasto",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Cindy Hyde-Smith",
+        "Twitter_username": "cindyhydesmith",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Cindy Hyde-Smith",
+        "Twitter_username": "SenHydeSmith",
+        "member_of_political_partyLabel": "Republican Party"
+    },
+    {
+        "senatorLabel": "Cindy Hyde-Smith",
+        "Twitter_username": "cindyhydesmith",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Cindy Hyde-Smith",
+        "Twitter_username": "SenHydeSmith",
+        "member_of_political_partyLabel": "Democratic Party"
+    },
+    {
+        "senatorLabel": "Daniel S. Sullivan",
+        "Twitter_username": "SenDanSullivan",
+        "member_of_political_partyLabel": "Republican Party"
+    }
+]
